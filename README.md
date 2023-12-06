@@ -1,7 +1,7 @@
 **Game Title: Gwent-Memory-Test-Inspired-by-Gwent-The-Witcher-Card-Game**
 
 **Description:**
-went-Memory-Test-Inspired-by-Gwent-The-Witcher-Card-Game is an exciting adventure for card game enthusiasts, inspired by the popular card game The Witcher Gwent. The player's task is to flip cards and match pairs, revealing icons from the card world of The Witcher.
+Gwent-Memory-Test-Inspired-by-Gwent-The-Witcher-Card-Game is an exciting adventure for card game enthusiasts, inspired by the popular card game The Witcher Gwent. The player's task is to flip cards and match pairs, revealing icons from the card world of The Witcher.
 
 **Game Rules:**
 1. At the beginning of the game, cards are arranged face down on the board.
@@ -22,4 +22,4 @@ The game was created using JavaScript and the jQuery library. These technologies
 3. Play until you find all pairs.
 
 **Summary:**
-went-Memory-Test-Inspired-by-Gwent-The-Witcher-Card-Game is not just an excellent memory game but also an engaging journey into the world of The Witcher. Test your memory, track time, and score points by revealing icons of your favorite characters. Can you find all the pairs? Play now and test your skills!
+Gwent-Memory-Test-Inspired-by-Gwent-The-Witcher-Card-Game is not just an excellent memory game but also an engaging journey into the world of The Witcher. Test your memory, track time, and score points by revealing icons of your favorite characters. Can you find all the pairs? Play now and test your skills!
